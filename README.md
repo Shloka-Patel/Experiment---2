@@ -23,7 +23,7 @@ Output<br>
 ![exp2B](https://github.com/Shloka-Patel/Experiment---2/blob/main/Output_2B.png) <br> 
 
 (C) <br> 
-![exp2C]()
+![exp2C](https://github.com/Shloka-Patel/Experiment---2/blob/main/Output_2C.png)
 
           
           
