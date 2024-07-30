@@ -20,7 +20,10 @@ Output<br>
 ![exp2A](https://github.com/Shloka-Patel/Experiment---2/blob/main/Output_2A.png) <br>
 
 (B) <br> 
-![exp2B]()
+![exp2B](https://github.com/Shloka-Patel/Experiment---2/blob/main/Output_2B.png) <br> 
+
+(C) <br> 
+![exp2C]()
 
           
           
