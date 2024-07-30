@@ -16,6 +16,11 @@ Theory -> Data types tell the variables about the type of data that they can sto
 
 Output<br> 
 
-![exp2A]()
+(A) <br> 
+![exp2A](https://github.com/Shloka-Patel/Experiment---2/blob/main/Output_2A.png) <br>
+
+(B) <br> 
+![exp2B]()
+
           
           
