@@ -23,7 +23,9 @@ Output<br>
 ![exp2B](https://github.com/Shloka-Patel/Experiment---2/blob/main/Output_2B.png) <br> 
 
 (C) <br> 
-![exp2C](https://github.com/Shloka-Patel/Experiment---2/blob/main/Output_2C.png)
+![exp2C](https://github.com/Shloka-Patel/Experiment---2/blob/main/Output_2C.png) <br> 
+
+COnclusion -> I learnt about different data types and storage classes of C++. 
 
           
           
