@@ -35,16 +35,16 @@ int main() {
     bool boolType;
     long int longintType;
     short int shortintType; 
-    cout<<"Size of int is:"<<sizeof(intType)<<"\n";          //Output - Size ofint is:4
-    cout<<"Size of char is:"<<sizeof(charType)<<"\n";           //Size of char is:1
-    cout<<"Size of signed char is:"<<sizeof(signedcharType)<<"\n";  //Size of signed char is:1
-    cout<<"Size of unsigned char is:"<<sizeof(unsignedcharType)<<"\n";     //Size ofunsigned char is:1
-    cout<<"Size of float is:"<<sizeof(floatType)<<"\n";                 //Size of float is:4
-    cout<<"Size of double is:"<<sizeof(doubleType)<<"\n";              //Size of double is:8 
-    cout<<"Size of long double is:"<<sizeof(longdoubleType)<<"\n";        //Size of long double is:12
-    cout<<"Size of bool is:"<<sizeof(boolType)<<"\n";                    //Size of bool is:1
-    cout<<"Size of long int is:"<<sizeof(longintType)<<"\n";                //Size of long int is:4
-    cout<<"Size of short int is:"<<sizeof(shortintType)<<"\n";          //Size of short int is:2 
+    cout<<"Size of int is:"<<sizeof(intType)<<"\n";          
+    cout<<"Size of char is:"<<sizeof(charType)<<"\n";          
+    cout<<"Size of signed char is:"<<sizeof(signedcharType)<<"\n";  
+    cout<<"Size of unsigned char is:"<<sizeof(unsignedcharType)<<"\n";     
+    cout<<"Size of float is:"<<sizeof(floatType)<<"\n";                
+    cout<<"Size of double is:"<<sizeof(doubleType)<<"\n";             
+    cout<<"Size of long double is:"<<sizeof(longdoubleType)<<"\n";       
+    cout<<"Size of bool is:"<<sizeof(boolType)<<"\n";                   
+    cout<<"Size of long int is:"<<sizeof(longintType)<<"\n";               
+    cout<<"Size of short int is:"<<sizeof(shortintType)<<"\n";         
 return 0;
 }
 ```
@@ -62,42 +62,66 @@ int main() {
     double f;
     long double g;
     bool h;
-    cout<<"Enter an integer: ";                      // Output - Enter an integer: 3
+    cout<<"Enter an integer: ";                     
     cin>>a;
-    cout<<"Size of int is:"<<sizeof(a)<<"\n";        // Size of int is:4
+    cout<<"Size of int is:"<<sizeof(a)<<"\n";        
 
-    cout<<"Enter a character: ";                    // Enter a character: c
+    cout<<"Enter a character: ";                   
     cin>>b;
-    cout<<"Size of char is:"<<sizeof(b)<<"\n";         // Size of char is:1
+    cout<<"Size of char is:"<<sizeof(b)<<"\n";        
 
-    cout<<"Enter a character: ";                    // Enter a character: ch
+    cout<<"Enter a character: ";                    
     cin>>c;
-    cout<<"Size of signed char is:"<<sizeof(c)<<"\n";    // Size of signed char is:1 
+    cout<<"Size of signed char is:"<<sizeof(c)<<"\n";     
 
-    cout<<"Enter a character: ";                         // Enter a character: e
+    cout<<"Enter a character: ";                        
     cin>>d;
-    cout<<"Size of unsigned char is:"<<sizeof(d)<<"\n";  // Size of unsigned char is:1 
+    cout<<"Size of unsigned char is:"<<sizeof(d)<<"\n";  
 
-    cout<<"Enter a number: ";                             // Enter a number: 78.0
+    cout<<"Enter a number: ";                             
     cin>>e;
-    cout<<"Size of float is:"<<sizeof(e)<<"\n";           // Size of float  is:4
+    cout<<"Size of float is:"<<sizeof(e)<<"\n";           
     
 
-    cout<<"Enter a number: ";                            // Enter a number: 45.09098
+    cout<<"Enter a number: ";                            
     cin>>f;
-    cout<<"Size of double is:"<<sizeof(f)<<"\n";         // Size of double is:8
+    cout<<"Size of double is:"<<sizeof(f)<<"\n";         
 
-    cout<<"Enter a number: ";                           // Enter a number: 56.78
+    cout<<"Enter a number: ";                           
     cin>>g;
-    cout<<"Size of long double is:"<<sizeof(g)<<"\n";    // Size of long double is:12
+    cout<<"Size of long double is:"<<sizeof(g)<<"\n";   
 
-    cout<<"Enter a bool value: ";                      // Enter a bool value: t
+    cout<<"Enter a bool value: ";                      
     cin>>h;
-    cout<<"Size of bool is:"<<sizeof(h)<<"\n";            // Size of bool is:1
+    cout<<"Size of bool is:"<<sizeof(h)<<"\n";            
 return 0;
 }
 ```
 
+(C)<br>
+```
+#include<iostream>
+using namespace std;
+
+int main() {
+    int a;
+    cout<<"Enter a number: ";                       
+    cin>>a;
+    cout<<"\nInteger= "<<a<<" and size is "<<sizeof(a)<<" bytes.";  
+
+    register int b;
+    cout<<"\nEnter a number: ";                                     
+    cin>>b;
+    cout<<"\nRegister= "<<b<<" and size is "<<sizeof(b)<<" bytes.";   
+
+    static int d;
+    cout<<"\nEnter any number: ";                                      
+    cin>>d;
+    cout<<"\nStatic= "<<d<<" and size is "<<sizeof(d)<<" bytes.";      
+
+    return 0;
+}
+``` 
 
 Output<br> 
 
