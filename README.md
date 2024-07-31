@@ -8,7 +8,7 @@ Theory -> Data types tell the variables about the type of data that they can sto
                                                 3. User-defined data types <br> 
           To find the size of data type we use "sizeof" command. It tells about the number of bytes occupied by any variable in the memory of a computer. <br> 
           Storage class in C++ determines the characteristics of a variable. <br> 
-          C++ has 6 types of storage classes: 1. Auto<br> 
+          C++ has 5 types of storage classes: 1. Auto<br> 
                                               2. Extern<br> 
                                               3. Mutable<br> 
                                               4. Register<br> 
