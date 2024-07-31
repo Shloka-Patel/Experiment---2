@@ -2,6 +2,8 @@
 
 Aim -> To study and implement C++ Program Structure (Data Types). <br> 
 
+Software -> Visual Studio Code <br> 
+
 Theory -> Data types tell the variables about the type of data that they can store. <br> 
           C++ supports many data types such as: <br> 
           1. Primary data types <br> 
