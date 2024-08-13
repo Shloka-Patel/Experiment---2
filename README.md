@@ -1,10 +1,13 @@
 # Experiment---2
 
-Aim -> To study and implement C++ Program Structure (Data Types). <br> 
+# Aim
+To study and implement C++ Program Structure (Data Types). <br> 
 
-Software -> Visual Studio Code <br> 
+# Software 
+Visual Studio Code <br> 
 
-Theory -> Data types tell the variables about the type of data that they can store. <br> 
+# Theory
+Data types tell the variables about the type of data that they can store. <br> 
           C++ supports many data types such as: <br> 
           1. Primary data types <br> 
           2. Derived data types<br> 
@@ -18,7 +21,7 @@ Theory -> Data types tell the variables about the type of data that they can sto
           4. Register<br> 
           5. Static<br> 
 
-Code: <br> 
+# Code: <br> 
 
 (A) 
 ```
@@ -123,7 +126,7 @@ int main() {
 }
 ``` 
 
-Output<br> 
+# Output<br> 
 
 (A) <br> 
 ![exp2A](https://github.com/Shloka-Patel/Experiment---2/blob/main/Output_2A.png) <br>
@@ -134,7 +137,8 @@ Output<br>
 (C) <br> 
 ![exp2C](https://github.com/Shloka-Patel/Experiment---2/blob/main/Output_2C.png) <br> 
 
-COnclusion -> I learnt about different data types and storage classes of C++. 
+# Conclusion 
+I learnt about different data types and storage classes of C++. 
 
           
           
