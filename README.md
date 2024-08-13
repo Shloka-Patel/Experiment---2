@@ -1,6 +1,6 @@
 # Experiment---2
 
-## Aim
+### Aim
 To study and implement C++ Program Structure (Data Types). <br> 
 
 # Software 
