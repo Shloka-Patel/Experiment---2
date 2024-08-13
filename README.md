@@ -3,10 +3,10 @@
 ### Aim
 To study and implement C++ Program Structure (Data Types). <br> 
 
-## Software 
+### Software 
 Visual Studio Code <br> 
 
-# Theory
+### Theory
 Data types tell the variables about the type of data that they can store. <br> 
           C++ supports many data types such as: <br> 
           1. Primary data types <br> 
@@ -21,7 +21,7 @@ Data types tell the variables about the type of data that they can store. <br>
           4. Register<br> 
           5. Static<br> 
 
-# Code: <br> 
+### Code: <br> 
 
 (A) 
 ```
@@ -126,7 +126,7 @@ int main() {
 }
 ``` 
 
-# Output<br> 
+### Output<br> 
 
 (A) <br> 
 ![exp2A](https://github.com/Shloka-Patel/Experiment---2/blob/main/Output_2A.png) <br>
@@ -137,7 +137,7 @@ int main() {
 (C) <br> 
 ![exp2C](https://github.com/Shloka-Patel/Experiment---2/blob/main/Output_2C.png) <br> 
 
-# Conclusion 
+### Conclusion 
 I learnt about different data types and storage classes of C++. 
 
           
