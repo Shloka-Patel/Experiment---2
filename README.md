@@ -3,7 +3,7 @@
 ### Aim
 To study and implement C++ Program Structure (Data Types). <br> 
 
-# Software 
+## Software 
 Visual Studio Code <br> 
 
 # Theory
