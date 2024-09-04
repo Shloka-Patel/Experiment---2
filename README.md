@@ -110,6 +110,10 @@ return 0;
 
 (C)<br>
 ```
+// NAME - SHLOKA PATEL 
+// PRN - 23070123120 
+// EXPERIMENT - 2(C) 
+
 #include<iostream>
 using namespace std;
 
