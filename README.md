@@ -25,6 +25,10 @@ Data types tell the variables about the type of data that they can store. <br>
 
 (A) 
 ```
+// NAME - SHLOKA PATEL 
+// PRN - 23070123120 
+// EXPERIMENT - 2(A)
+
 #include<iostream>
 using namespace std;
 int main() {
