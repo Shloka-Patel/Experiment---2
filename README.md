@@ -57,6 +57,9 @@ return 0;
 ```
 (B) <br> 
 ```
+// NAME - SHLOKA PATEL 
+// PRN - 23070123120 
+// EXPERIMENT - 2(B)  
 
 #include<iostream>
 using namespace std;
